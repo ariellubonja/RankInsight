@@ -1,0 +1,20 @@
+feature,model,dpd,group_high,group_low
+diagnosis,Swin_UNETR_CLIP,0.18191572207320245,no_cancer,cancer
+diagnosis,U-Net_CLIP,0.17102342685693533,no_cancer,cancer
+diagnosis,SegVol,0.15679471624563468,no_cancer,cancer
+diagnosis,nnU-Net_ResEncL,0.09610406849405984,no_cancer,cancer
+diagnosis,UniSeg,0.09554666151545477,no_cancer,cancer
+diagnosis,MedFormer,0.09480328085897904,no_cancer,cancer
+diagnosis,NexToU,0.09052577752932656,no_cancer,cancer
+diagnosis,LHU-Net,0.08561757483241517,no_cancer,cancer
+diagnosis,nnU-Net U-Net,0.08263028695578567,no_cancer,cancer
+diagnosis,Diff-UNet,0.07877996039226398,no_cancer,cancer
+diagnosis,STU-Net B,0.06708527647873319,no_cancer,cancer
+diagnosis,STU-Net L,0.06694332726329566,no_cancer,cancer
+diagnosis,MedNeXt,0.060382043396066676,no_cancer,cancer
+diagnosis,STU-Net H,0.049552560810708246,no_cancer,cancer
+diagnosis,Swin_UNETR,0.033772271575945284,no_cancer,cancer
+diagnosis,UCTransNet,0.02968313535171127,no_cancer,cancer
+diagnosis,UNEST,0.019169453891950433,no_cancer,cancer
+diagnosis,UNETR,0.013580533627936348,no_cancer,cancer
+diagnosis,SAM-Adapter,0.0,no_cancer,cancer
